@@ -45,12 +45,7 @@ Employee attrition is costly: hiring, training and lost productivity add up quic
 ### Employee Insights
 ![Employee Insights](DashboardImages/employee.png)
 
-## Key Insights
-> Replace these with your actual findings.
-- Attrition rate is **16.12%** overall.
-- Employees working **overtime** leave more often than those who don't.
-- Lower **monthly income** groups show higher attrition.
-- Attrition is highest among employees with **[0-2] years** at the company.
+
 
 ## Recommendations
 - Review workload and overtime policies in high-attrition roles.
