@@ -47,8 +47,7 @@ Employee attrition is costly: hiring, training and lost productivity add up quic
 
 ## Key Insights
 > Replace these with your actual findings.
-- Attrition rate is **X%** overall.
-- **[Department/Role]** has the highest attrition.
+- Attrition rate is **16.12%** overall.
 - Employees working **overtime** leave more often than those who don't.
 - Lower **monthly income** groups show higher attrition.
 - Attrition is highest among employees with **[0-2] years** at the company.
@@ -74,8 +73,8 @@ HR-Analytics-Employee-Attrition-Analysis/
 │   └── HR_Analytics.pbix
 └── images/
     ├── workforce_overview.png
-    ├── attrition_analysis.png
-    └── employee_insights.png
+    ├── attrition.png
+    └── employee.png
 ```
 
 ## Sample SQL Query
